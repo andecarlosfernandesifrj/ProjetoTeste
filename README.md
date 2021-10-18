@@ -1,7 +1,7 @@
 
 ******
 
-Projeto teste do Git e GiHub
+Projeto testo do Git e GiHub
 
 ******
 
